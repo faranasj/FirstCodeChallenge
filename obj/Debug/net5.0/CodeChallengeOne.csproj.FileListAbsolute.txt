@@ -1,0 +1,16 @@
+C:\Users\Hp\Desktop\CodeChallengeOne\obj\Debug\net5.0\CodeChallengeOne.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\CodeChallengeOne\obj\Debug\net5.0\CodeChallengeOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\CodeChallengeOne\obj\Debug\net5.0\CodeChallengeOne.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\CodeChallengeOne\obj\Debug\net5.0\CodeChallengeOne.AssemblyInfo.cs
+C:\Users\Hp\Desktop\CodeChallengeOne\obj\Debug\net5.0\CodeChallengeOne.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\CodeChallengeOne\bin\Debug\net5.0\CodeChallengeOne.exe
+C:\Users\Hp\Desktop\CodeChallengeOne\bin\Debug\net5.0\CodeChallengeOne.deps.json
+C:\Users\Hp\Desktop\CodeChallengeOne\bin\Debug\net5.0\CodeChallengeOne.runtimeconfig.json
+C:\Users\Hp\Desktop\CodeChallengeOne\bin\Debug\net5.0\CodeChallengeOne.runtimeconfig.dev.json
+C:\Users\Hp\Desktop\CodeChallengeOne\bin\Debug\net5.0\CodeChallengeOne.dll
+C:\Users\Hp\Desktop\CodeChallengeOne\bin\Debug\net5.0\ref\CodeChallengeOne.dll
+C:\Users\Hp\Desktop\CodeChallengeOne\bin\Debug\net5.0\CodeChallengeOne.pdb
+C:\Users\Hp\Desktop\CodeChallengeOne\obj\Debug\net5.0\CodeChallengeOne.dll
+C:\Users\Hp\Desktop\CodeChallengeOne\obj\Debug\net5.0\ref\CodeChallengeOne.dll
+C:\Users\Hp\Desktop\CodeChallengeOne\obj\Debug\net5.0\CodeChallengeOne.pdb
+C:\Users\Hp\Desktop\CodeChallengeOne\obj\Debug\net5.0\CodeChallengeOne.genruntimeconfig.cache
